@@ -23,14 +23,10 @@
             "id": "5356e0fdaca23fcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quartz/content/Projects/Drift Abyss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drift Abyss"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -204,16 +200,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5356e0fdaca23fcc",
+  "active": "ddc417c1bf0b1533",
   "lastOpenFiles": [
+    "quartz/README.md",
+    "quartz/CODE_OF_CONDUCT.md",
+    "Untitled",
     "quartz/content/Projects/Marina '88.md",
+    "quartz/content/Articles/Blender modifier modeling (modeling food).md",
+    "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
+    "quartz/content/Articles/Procedural texturing with Blender nodes.md",
+    "quartz/content/Projects/Drift Abyss.md",
     "quartz/content/Projects/8LEGS GALAXY.md",
     "quartz/content/Projects/EIGHT SOULS.md",
     "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
     "quartz/content/Articles/Frosted glass with just surface shader.md",
-    "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
-    "quartz/content/Articles/Blender modifier modeling (modeling food).md",
-    "quartz/content/Articles/Procedural texturing with Blender nodes.md",
     "quartz/content/Articles/Coconala(ココナラ) Initiation.md",
     "quartz/content/Articles/Planet Atmosphere Shader.md",
     "quartz/content/Articles/MToon shader study.md",
@@ -223,8 +223,7 @@
     "quartz/content/Projects/Endless Runner 2.md",
     "quartz/content/Projects/E. O. S..md",
     "quartz/content/Projects/8LEGS DINER.md",
-    "quartz/content/Projects/Drift Abyss.md",
-    "f301bd80-8987-4990-b213-ccb36a9e4d7d.png",
+    "quartz/content/Media/f301bd80-8987-4990-b213-ccb36a9e4d7d.png",
     "quartz/content/Media/Pasted image 20260521201723.png",
     "quartz/content/Media/Pasted image 20260521200641.png",
     "quartz/content/Media/Lightmap-0_comp_light.jpg",
@@ -241,7 +240,6 @@
     "quartz/docs/configuration.md",
     "quartz/docs/layout.md",
     "quartz/content/index.md",
-    "articles.md",
     "quartz/content/Articles",
     "quartz/content/Tools and Platforms",
     "quartz/content/Projects",
@@ -251,7 +249,6 @@
     "quartz/content/Media/Screen Recording 2025-12-21 152304.mp4",
     "quartz/content/Media/Screen Recording 2025-05-25 215817.mp4",
     "quartz/content/Media/20260430-1419-58.5722771.mp4",
-    "quartz/content/Media/20260501-0519-21.0724357.mp4",
     "quartz/Galleries/3D Modeling 2025.canvas",
     "Galleries/3D Modeling 2025.canvas",
     "Public/Galleries/3D Modeling 2025.canvas"
