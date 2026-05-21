@@ -2,7 +2,5 @@
 
 Here I ([[Ryan Moriya]]) will leave notes about my experiments and studies mostly regarding programming
 
-There's a bunch of pages I still need to move from Notion
+under construction
 
-
-![[IMG_1376.jpeg]]
