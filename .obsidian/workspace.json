@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "340f71eb1f811b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "553e3cab456cb859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696e3b91e7a7159a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc1d51afbea4cac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52b64485dfbda87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b3ffcb4258cdb6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a5f1c186220ed2ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db6d161c15f45d83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0436ee9d375dbe04",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42a6b7be650f2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be1c3d058fcd076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "134c523ca8fce6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "723b2c2f7aebe56d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf84c033b0073194",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f70b070202d634ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ddc417c1bf0b1533",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "696e3b91e7a7159a",
+  "lastOpenFiles": [
+    "People/Ryan Moriya.md",
+    "People/Anju Moriya.md",
+    "Public/Articles/Coconala(ココナラ) Initiation.md",
+    "Public",
+    "Public/Articles/Frosted glass with just surface shader.md",
+    "Public/Articles/Retro rim lighting effect.md",
+    "Public/Articles/Examining Cluster builds to minimize download size.md",
+    "Public/Articles/Planet Atmosphere Shader.md",
+    "Public/Articles/MToon shader study.md",
+    "Public/Articles/Using annotations in Blender for planning large scenes.md",
+    "Welcome.md",
+    "Public/Articles/Procedural Texturing in Blender.md",
+    "Public/Articles/Blender modifier modeling (modeling food).md",
+    "Tools/Untitled.md",
+    "People",
+    "Public/Galleries/3D Modeling 2025.canvas",
+    "Public/Galleries",
+    "Public/Projects/E. O. S..md",
+    "tools/Untitled.md",
+    "Untitled.md",
+    "Public/Media/68afd89a-f17b-4f73-8573-2dc8c54c65cb.png",
+    "Public/Projects/Marina '88.md",
+    "Public/Projects",
+    "Public/Articles",
+    "Public/Media/Pasted image 20260520131250.png",
+    "Public/Media/Pasted image 20260520131229.png",
+    "Public/Media/Pasted image 20260520131203.png",
+    "Public/Media/Pasted image 20260520131129.png",
+    "Public/Media/Screen Recording 2026-05-19 234515.mp4",
+    "Public/Media/Pasted image 20260519230101.png",
+    "Public/Media/Pasted image 20260519225908.png",
+    "Public/Media/Pasted image 20260519225820.png",
+    "Public/Media/Pasted image 20260519225739.png",
+    "Public/Projects/8LEGS GALAXY.md",
+    "Public/Media/Pasted image 20260519225623.png",
+    "Public/Tools and Platforms/Minecraft.md",
+    "Public/Tools and Platforms/Cluster.md",
+    "Public/Tools and Platforms/Coconala.md",
+    "Public/Tools and Platforms/Adobe Illustrator.md",
+    "Public/Tools and Platforms/OpenXR.md",
+    "Public/Projects/EIGHT SOULS.md",
+    "Public/Projects/Endless Runner 2.md",
+    "Public/Media/Screen Recording 2026-05-08 220134.mp4",
+    "desktop.ini",
+    "Public/Media/Screen Recording 2025-05-25 215817.mp4",
+    "Public/Media/Screen Recording 2025-12-21 152304.mp4"
+  ]
+}
