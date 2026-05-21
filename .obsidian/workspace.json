@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/index.md",
+                "file": "quartz/docs/configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "configuration"
             }
           }
         ]
@@ -193,8 +193,10 @@
   },
   "active": "4db062294509f361",
   "lastOpenFiles": [
-    "articles.md",
+    "quartz/docs/layout.md",
+    "quartz/docs/configuration.md",
     "quartz/content/index.md",
+    "articles.md",
     "articles 1.md",
     "articles 2.md",
     "quartz/content/Articles.md",
@@ -203,7 +205,6 @@
     "quartz/content/Articles/Frosted glass with just surface shader.md",
     "quartz/content/Articles/Procedural Texturing in Blender.md",
     "quartz/content/Articles/Examining Cluster builds to minimize download size.md",
-    "quartz/docs/configuration.md",
     "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
     "quartz/content/Articles/Retro rim lighting effect.md",
     "quartz/content/Articles/Planet Atmosphere Shader.md",
