@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef56d2f55ca4bd7",
+        "id": "bc91de85aaf6096e",
         "type": "tabs",
         "children": [
           {
-            "id": "4db062294509f361",
+            "id": "06bdbaefd60ea008",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "quartz/quartz/static/icon.png"
+                "file": "quartz/content/People/Ryan Moriya.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "icon"
-            }
-          },
-          {
-            "id": "5356e0fdaca23fcc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Ryan Moriya"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,12 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddc417c1bf0b1533",
+  "active": "06bdbaefd60ea008",
   "lastOpenFiles": [
+    "quartz/content/People/Anju Moriya.md",
+    "quartz/content/Projects/Marina '88.md",
+    "quartz/content/Articles/MToon shader study.md",
+    "quartz/content/Projects/8LEGS DINER.md",
+    "quartz/content/People/Ryan Moriya.md",
+    "quartz/quartz/static/icon.png",
+    "quartz/content/Tools and Platforms/Unity.md",
     "quartz/README.md",
     "quartz/CODE_OF_CONDUCT.md",
     "Untitled",
-    "quartz/content/Projects/Marina '88.md",
     "quartz/content/Articles/Blender modifier modeling (modeling food).md",
     "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
     "quartz/content/Articles/Procedural texturing with Blender nodes.md",
@@ -216,13 +213,11 @@
     "quartz/content/Articles/Frosted glass with just surface shader.md",
     "quartz/content/Articles/Coconala(ココナラ) Initiation.md",
     "quartz/content/Articles/Planet Atmosphere Shader.md",
-    "quartz/content/Articles/MToon shader study.md",
     "quartz/content/Articles/Procedural Texturing in Blender.md",
     "quartz/content/Articles/Retro rim lighting effect.md",
     "quartz/content/Articles/Examining Cluster builds to minimize download size.md",
     "quartz/content/Projects/Endless Runner 2.md",
     "quartz/content/Projects/E. O. S..md",
-    "quartz/content/Projects/8LEGS DINER.md",
     "quartz/content/Media/f301bd80-8987-4990-b213-ccb36a9e4d7d.png",
     "quartz/content/Media/Pasted image 20260521201723.png",
     "quartz/content/Media/Pasted image 20260521200641.png",
@@ -232,14 +227,10 @@
     "quartz/content/Media/Pasted image 20260521193737.png",
     "quartz/content/Media/Pasted image 20260521192557.png",
     "quartz/content/Media/Pasted image 20260521192519.png",
-    "quartz/content/Media/D5D87D42-2C79-41D3-8628-7494FBB6A089.png",
     "quartz/content/Galleries/3D Modeling 2025.canvas",
     "quartz/content/Galleries/3D Modeling 2025.md",
     "Anju.md",
     "quartz/content/Tools and Platforms/AssetRipper.md",
-    "quartz/docs/configuration.md",
-    "quartz/docs/layout.md",
-    "quartz/content/index.md",
     "quartz/content/Articles",
     "quartz/content/Tools and Platforms",
     "quartz/content/Projects",

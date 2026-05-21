@@ -4,27 +4,41 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:quartz/content",
+      "query": "path:quartz/content/Articles  ",
       "color": {
         "a": 1,
-        "rgb": 5111747
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "path:\"quartz/content/Tools and Platforms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8191709
+      }
+    },
+    {
+      "query": "path:quartz/content/Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 16660832
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.00598958333333,
   "collapse-forces": false,
-  "centerStrength": 0.401041666666667,
-  "repelStrength": 9.89583333333333,
-  "linkStrength": 1,
-  "linkDistance": 250,
+  "centerStrength": 0.450520833333333,
+  "repelStrength": 10.0520833333333,
+  "linkStrength": 0.747395833333333,
+  "linkDistance": 100,
   "scale": 0.8410179241582817,
-  "close": true
+  "close": false
 }
