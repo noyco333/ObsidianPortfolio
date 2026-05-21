@@ -23,14 +23,12 @@
             "id": "5356e0fdaca23fcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
-                "mode": "source",
-                "source": false
+                "file": "quartz/content/Media/Pasted image 20260521201723.png"
               },
-              "icon": "lucide-file",
-              "title": "Optimizing baked lighting in Unity (Built-in render pipeline)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260521201723"
             }
           }
         ],
@@ -204,24 +202,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5356e0fdaca23fcc",
+  "active": "7b3ffcb4258cdb6f",
   "lastOpenFiles": [
-    "Pasted image 20260521201723.png",
-    "Pasted image 20260521200641.png",
-    "Lightmap-0_comp_light.jpg",
-    "Pasted image 20260521194607.png",
-    "Pasted image 20260521193958.png",
-    "Pasted image 20260521193737.png",
-    "Pasted image 20260521192557.png",
-    "Pasted image 20260521192519.png",
+    "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
+    "quartz/content/Media/Pasted image 20260521201723.png",
+    "quartz/content/Media/Pasted image 20260521200641.png",
+    "quartz/content/Media/Lightmap-0_comp_light.jpg",
+    "quartz/content/Media/Pasted image 20260521194607.png",
+    "quartz/content/Media/Pasted image 20260521193958.png",
+    "quartz/content/Media/Pasted image 20260521193737.png",
+    "quartz/content/Media/Pasted image 20260521192557.png",
+    "quartz/content/Media/Pasted image 20260521192519.png",
     "quartz/content/Articles/Retro rim lighting effect.md",
     "quartz/content/Articles/Examining Cluster builds to minimize download size.md",
     "quartz/content/Articles/MToon shader study.md",
     "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
-    "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
     "quartz/content/Projects/8LEGS DINER.md",
-    "D5D87D42-2C79-41D3-8628-7494FBB6A089.png",
-    "5a476e11-c1e6-44bb-821c-a2caa2def1c0.png",
+    "quartz/content/Media/D5D87D42-2C79-41D3-8628-7494FBB6A089.png",
+    "quartz/content/Media/5a476e11-c1e6-44bb-821c-a2caa2def1c0.png",
     "quartz/content/Projects/Endless Runner 2.md",
     "quartz/content/Projects/EIGHT SOULS.md",
     "quartz/content/Projects/E. O. S..md",
@@ -229,7 +227,6 @@
     "quartz/content/Projects/8LEGS GALAXY.md",
     "quartz/content/Projects/Drift Abyss.md",
     "quartz/content/Galleries/3D Modeling 2025.canvas",
-    "quartz/content/Galleries/3D Modeling 2025.png",
     "quartz/content/Galleries/3D Modeling 2025.md",
     "quartz/content/Articles/Planet Atmosphere Shader.md",
     "quartz/content/Articles/Procedural texturing with Blender nodes.md",
