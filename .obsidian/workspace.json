@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/docs/configuration.md",
+                "file": "quartz/content/Tools and Platforms/AssetRipper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "configuration"
+              "title": "AssetRipper"
             }
           }
         ]
@@ -193,8 +193,10 @@
   },
   "active": "4db062294509f361",
   "lastOpenFiles": [
-    "quartz/docs/layout.md",
+    "quartz/content/Articles/Examining Cluster builds to minimize download size.md",
+    "quartz/content/Tools and Platforms/AssetRipper.md",
     "quartz/docs/configuration.md",
+    "quartz/docs/layout.md",
     "quartz/content/index.md",
     "articles.md",
     "articles 1.md",
@@ -204,7 +206,6 @@
     "Articles.md",
     "quartz/content/Articles/Frosted glass with just surface shader.md",
     "quartz/content/Articles/Procedural Texturing in Blender.md",
-    "quartz/content/Articles/Examining Cluster builds to minimize download size.md",
     "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
     "quartz/content/Articles/Retro rim lighting effect.md",
     "quartz/content/Articles/Planet Atmosphere Shader.md",
@@ -219,7 +220,6 @@
     "quartz/content/Tools and Platforms/HLSL.md",
     "quartz/content/Tools and Platforms/GIMP.md",
     "quartz/content/Tools and Platforms/Coconala.md",
-    "quartz/content/Tools and Platforms/Cluster.md",
     "quartz/content/Tools and Platforms",
     "quartz/content/Projects",
     "quartz/content/People",
