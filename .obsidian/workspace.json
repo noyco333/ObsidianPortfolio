@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Screenshot 2024-10-16 224936.png"
+                "file": "quartz/content/Media/Screenshot 2024-10-16 211219 1.png"
               },
               "icon": "lucide-image",
-              "title": "Screenshot 2024-10-16 224936"
+              "title": "Screenshot 2024-10-16 211219 1"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot 2024-10-16 224936.png",
+                "file": "quartz/content/Media/Screenshot 2024-10-16 211219 1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot 2024-10-16 224936"
+              "title": "Outline of Screenshot 2024-10-16 211219 1"
             }
           },
           {
@@ -190,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06bdbaefd60ea008",
+  "active": "7b3ffcb4258cdb6f",
   "lastOpenFiles": [
-    "Screenshot 2024-10-16 211219 1.png",
+    "quartz/content/Media/Screenshot 2024-10-16 224936.png",
+    "quartz/content/Media/Screenshot 2024-10-16 211219 1.png",
     "quartz/content/Projects/Drift Abyss.md",
-    "Screenshot 2024-10-16 224936.png",
     "Screenshot 2024-10-16 211219.png",
     "quartz/content/Media/Screenshot 2024-10-16 211953.png",
     "quartz/content/Media/Screenshot 2024-09-28 011420.png",
