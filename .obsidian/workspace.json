@@ -11,12 +11,14 @@
             "id": "06bdbaefd60ea008",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "quartz/content/Media/Screenshot 2024-10-16 211219 1.png"
+                "file": "quartz/content/Projects/Drift Abyss.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-10-16 211219 1"
+              "icon": "lucide-file",
+              "title": "Drift Abyss"
             }
           }
         ]
@@ -152,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz/content/Media/Screenshot 2024-10-16 211219 1.png",
+                "file": "quartz/content/Projects/Drift Abyss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot 2024-10-16 211219 1"
+              "title": "Outline of Drift Abyss"
             }
           },
           {
@@ -190,19 +192,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b3ffcb4258cdb6f",
+  "active": "06bdbaefd60ea008",
   "lastOpenFiles": [
-    "quartz/content/Media/Screenshot 2024-10-16 224936.png",
-    "quartz/content/Media/Screenshot 2024-10-16 211219 1.png",
+    "driftabyssdevhistory.png",
+    "313069299b424fb88744b62c98e9e0f0.mp4",
+    "IMG_4637.jpg",
+    "976AF56F-8BC2-43A1-B15E-49E4E2830BF5.jpg",
+    "quartz/content/Projects/8LEGS GALAXY.md",
+    "quartz/content/Projects/EIGHT SOULS.md",
+    "quartz/content/Media/IMG_4321.jpeg",
+    "quartz/content/Media/Pasted image 20260523141318.png",
     "quartz/content/Projects/Drift Abyss.md",
-    "Screenshot 2024-10-16 211219.png",
-    "quartz/content/Media/Screenshot 2024-10-16 211953.png",
-    "quartz/content/Media/Screenshot 2024-09-28 011420.png",
-    "quartz/content/Media/Screenshot 2024-10-16 211219.png",
-    "quartz/content/Media/Screenshot 2024-09-28 012607.png",
-    "quartz/content/Media/Screenshot 2024-09-28 011027.png",
-    "quartz/content/Media/Screenshot 2024-09-27 182105.png",
-    "quartz/content/Media/Screenshot 2024-09-26 005901.png",
+    "quartz/content/Media/0E0DCE6B-54B1-42DB-B5D2-1E7BADAD72E7.jpg",
+    "quartz/content/Media/IMG_3045.jpeg",
+    "quartz/content/Media/08C1CFDA-6569-4D44-BC11-CC079191EADB.jpg",
+    "quartz/content/Media/322B4A5A-73F3-4CB3-A745-B3E55ECC40BE.jpg",
+    "quartz/content/Media/35287177-A231-4307-A44A-B6813111305B.jpg",
+    "quartz/content/Media/the e d i t o r.png",
+    "quartz/content/Media/content_c7c8111c980b1218ec8e8775c8c9513a3cadab0e.jfif",
+    "content_c7c8111c980b1218ec8e8775c8c9513a3cadab0e.jfif",
     "quartz/content/Media/DriftAbyss 2023-06-09 20-53-57_Trim.mp4",
     "quartz/content/Media/driftabyssremake1.mp4",
     "quartz/content/Media/DADH6.mp4",
@@ -210,14 +218,10 @@
     "quartz/content/Media/DADH5 1.mp4",
     "quartz/content/Media/DADH5.mp4",
     "quartz/content/Media/DADH4.mp4",
-    "quartz/content/Media/DADH3.mp4",
-    "quartz/content/Media/DADH2.mp4",
-    "quartz/content/Media/DADH1.mp4",
     "quartz/content/Projects/8LEGS DINER.md",
     "quartz/content/Projects/Marina '88.md",
     "quartz/content/People/Ryan Moriya.md",
     "quartz/content/Projects/E. O. S..md",
-    "quartz/content/Projects/EIGHT SOULS.md",
     "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
     "quartz/content/Articles/Examining Cluster builds to minimize download size.md",
     "quartz/content/Articles/Using annotations in Blender for planning large scenes.md",
@@ -228,7 +232,6 @@
     "quartz/content/Tools and Platforms/Unity.md",
     "quartz/README.md",
     "quartz/CODE_OF_CONDUCT.md",
-    "quartz/content/Projects/8LEGS GALAXY.md",
     "quartz/content/Articles/Frosted glass with just surface shader.md",
     "quartz/content/Articles/Coconala(ココナラ) Initiation.md",
     "quartz/content/Articles/Planet Atmosphere Shader.md",
