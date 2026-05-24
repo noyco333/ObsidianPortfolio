@@ -11,14 +11,12 @@
             "id": "06bdbaefd60ea008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "quartz/content/Projects/Drift Abyss.md",
-                "mode": "source",
-                "source": false
+                "file": "quartz/content/Media/driftabyssdevhistory.png"
               },
-              "icon": "lucide-file",
-              "title": "Drift Abyss"
+              "icon": "lucide-image",
+              "title": "driftabyssdevhistory"
             }
           }
         ]
@@ -192,23 +190,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06bdbaefd60ea008",
+  "active": "7b3ffcb4258cdb6f",
   "lastOpenFiles": [
-    "driftabyssdevhistory.png",
-    "313069299b424fb88744b62c98e9e0f0.mp4",
-    "IMG_4637.jpg",
-    "976AF56F-8BC2-43A1-B15E-49E4E2830BF5.jpg",
+    "quartz/content/Projects/Drift Abyss.md",
+    "quartz/content/Media/driftabyssdevhistory.png",
+    "quartz/content/Media/313069299b424fb88744b62c98e9e0f0.mp4",
+    "quartz/content/Media/IMG_4637.jpg",
+    "quartz/content/Media/976AF56F-8BC2-43A1-B15E-49E4E2830BF5.jpg",
     "quartz/content/Projects/8LEGS GALAXY.md",
     "quartz/content/Projects/EIGHT SOULS.md",
     "quartz/content/Media/IMG_4321.jpeg",
     "quartz/content/Media/Pasted image 20260523141318.png",
-    "quartz/content/Projects/Drift Abyss.md",
     "quartz/content/Media/0E0DCE6B-54B1-42DB-B5D2-1E7BADAD72E7.jpg",
     "quartz/content/Media/IMG_3045.jpeg",
     "quartz/content/Media/08C1CFDA-6569-4D44-BC11-CC079191EADB.jpg",
     "quartz/content/Media/322B4A5A-73F3-4CB3-A745-B3E55ECC40BE.jpg",
     "quartz/content/Media/35287177-A231-4307-A44A-B6813111305B.jpg",
-    "quartz/content/Media/the e d i t o r.png",
     "quartz/content/Media/content_c7c8111c980b1218ec8e8775c8c9513a3cadab0e.jfif",
     "content_c7c8111c980b1218ec8e8775c8c9513a3cadab0e.jfif",
     "quartz/content/Media/DriftAbyss 2023-06-09 20-53-57_Trim.mp4",
