@@ -11,12 +11,14 @@
             "id": "06bdbaefd60ea008",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "quartz/content/Media/driftabyssdevhistory.png"
+                "file": "quartz/content/Articles/Procedural texturing with Blender nodes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "driftabyssdevhistory"
+              "icon": "lucide-file",
+              "title": "Procedural texturing with Blender nodes"
             }
           }
         ]
@@ -190,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b3ffcb4258cdb6f",
+  "active": "06bdbaefd60ea008",
   "lastOpenFiles": [
-    "quartz/content/Projects/Drift Abyss.md",
     "quartz/content/Media/driftabyssdevhistory.png",
+    "quartz/content/Projects/Drift Abyss.md",
     "quartz/content/Media/313069299b424fb88744b62c98e9e0f0.mp4",
     "quartz/content/Media/IMG_4637.jpg",
     "quartz/content/Media/976AF56F-8BC2-43A1-B15E-49E4E2830BF5.jpg",
