@@ -1,8 +1,9 @@
 ---
 title: Welcome!
 ---
-I'm [[Ryan Moriya]] and this is my portfolio / knowledgebase!. Here I write articles about my experiments and studies mostly in programming.
+Hi! I'm [[Ryan Moriya]], and this is my portfolio / knowledgebase! Here I write articles about my experiments and studies mostly in programming.
 
+Thank you for visiting!
 
 ---
 # Featured Articles
@@ -19,5 +20,3 @@ I'm [[Ryan Moriya]] and this is my portfolio / knowledgebase!. Here I write arti
 ### [Galleries](https://noyco333.github.io/Portfolio/Galleries/)
 
 ---
-
-Thank you for visiting!
