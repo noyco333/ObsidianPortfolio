@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tool",
+                "query": "welcome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,8 +195,9 @@
   },
   "active": "06bdbaefd60ea008",
   "lastOpenFiles": [
-    "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
+    "docs/index.md",
     "quartz/content/index.md",
+    "quartz/content/Articles/Optimizing baked lighting in Unity (Built-in render pipeline).md",
     "quartz/content/Articles/Coconala(ココナラ) Initiation.md",
     "quartz/content/Articles/Retro rim lighting effect.md",
     "quartz/content/Articles/Frosted glass with just surface shader.md",
@@ -221,7 +223,6 @@
     "docs/plugins/TagPage.md",
     "docs/plugins/TableOfContents.md",
     "docs/plugins/RoamFlavoredMarkdown.md",
-    "docs/plugins/SyntaxHighlighting.md",
     "docs/images/social-image-preview-dark.png",
     "docs/images/social-image-preview-light.png",
     "docs/images/quartz-layout-desktop.png",
