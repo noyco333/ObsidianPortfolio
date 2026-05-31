@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 ---
-Here I ([[Ryan Moriya]]) will leave half-baked articles about my experiments and studies mostly in programming.
+I'm [[Ryan Moriya]] and this is my portfolio / knowledgebase!. Here I write articles about my experiments and studies mostly in programming.
 
 
 ---
